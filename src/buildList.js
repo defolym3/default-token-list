@@ -17,7 +17,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: '',
     keywords: ['defolym3', 'default'],
-    tokens: [...kaia, ...sepolia, ...base, ...kairos]
+    tokens: [kaia, sepolia, base, kairos]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
