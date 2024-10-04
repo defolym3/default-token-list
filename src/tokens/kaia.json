@@ -1,0 +1,49 @@
+{
+  "name": "DefOlym3 Default List",
+  "timestamp": "2024-10-01T11:45:09Z",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "defolym3",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Defolym3 Token",
+      "symbol": "DEFOLYM",
+      "address": "0x21f42cc67a082cc649f3ebdfb7bbc2ce48b1347f",
+      "chainId": 8217,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "",
+      "isQuoteToken": true
+    },
+    {
+      "name": "Staking DEFOLYM3 Token",
+      "symbol": "stDEFOLYM",
+      "address": "0x0dF0c2e8C6Fa442d91Da21413A8905cD247E62b3",
+      "chainId": 8217,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": ""
+    },
+    {
+      "name": "DefOlym3 SW Token",
+      "symbol": "swDEFOLYM",
+      "address": "0xf4bd3ad3cb3c447da1d867430484f58beed67af7",
+      "chainId": 8217,
+      "decimals": 18,
+      "logoURI": "",
+      "useDexscreener": true,
+      "dexscreenPairAddress": "",
+      "tradeable": false
+    }
+  ]
+}
